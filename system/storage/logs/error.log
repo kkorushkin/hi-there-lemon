@@ -1,0 +1,2203 @@
+2018-04-11 22:23:36 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 1500
+                    [sort_order] => 10
+                )
+
+            [2] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 9
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:23:36 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 1500
+                    [sort_order] => 10
+                )
+
+            [2] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 9
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:24:34 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 1500
+                    [sort_order] => 10
+                )
+
+            [2] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 9
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:24:34 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 1500
+                    [sort_order] => 10
+                )
+
+            [2] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 9
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:24:38 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 0
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 0
+                    [sort_order] => 10
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 0
+)
+
+2018-04-11 22:24:38 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 0
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 0
+                    [sort_order] => 10
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 0
+)
+
+2018-04-11 22:24:40 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 0
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 0
+                    [sort_order] => 10
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 0
+)
+
+2018-04-11 22:24:43 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 500
+                    [sort_order] => 10
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 500
+)
+
+2018-04-11 22:24:43 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 500
+                    [sort_order] => 10
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 500
+)
+
+2018-04-11 22:24:45 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 500
+                    [sort_order] => 10
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 500
+)
+
+2018-04-11 22:24:45 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 500
+                    [sort_order] => 10
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 500
+)
+
+2018-04-11 22:24:51 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 500
+                    [sort_order] => 10
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 500
+)
+
+2018-04-11 22:24:55 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 601
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 601
+                    [sort_order] => 10
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 601
+)
+
+2018-04-11 22:24:55 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 601
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 601
+                    [sort_order] => 10
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 601
+)
+
+2018-04-11 22:24:58 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 601
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 601
+                    [sort_order] => 10
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 601
+)
+
+2018-04-11 22:24:58 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 601
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 601
+                    [sort_order] => 10
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 601
+)
+
+2018-04-11 22:25:05 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1510
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 1510
+                    [sort_order] => 10
+                )
+
+            [2] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75.5
+                    [sort_order] => 9
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1434.5
+)
+
+2018-04-11 22:25:06 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1510
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 1510
+                    [sort_order] => 10
+                )
+
+            [2] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75.5
+                    [sort_order] => 9
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1434.5
+)
+
+2018-04-11 22:26:22 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1510
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75.5
+                    [sort_order] => 9
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1434.5
+)
+
+2018-04-11 22:26:23 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1510
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75.5
+                    [sort_order] => 9
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1434.5
+)
+
+2018-04-11 22:26:31 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1510
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75.5
+                    [sort_order] => 9
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1434.5
+)
+
+2018-04-11 22:26:36 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1510
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75.5
+                    [sort_order] => 9
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1434.5
+)
+
+2018-04-11 22:26:38 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1510
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75.5
+                    [sort_order] => 9
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1434.5
+)
+
+2018-04-11 22:27:25 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1510
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75.5
+                    [sort_order] => 9
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1434.5
+)
+
+2018-04-11 22:27:30 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1510
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75.5
+                    [sort_order] => 9
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1434.5
+)
+
+2018-04-11 22:27:30 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1510
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75.5
+                    [sort_order] => 9
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1434.5
+)
+
+2018-04-11 22:27:37 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 500
+                    [sort_order] => 
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 500
+)
+
+2018-04-11 22:27:37 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 500
+                    [sort_order] => 
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 500
+)
+
+2018-04-11 22:27:37 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 500
+                    [sort_order] => 
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 500
+)
+
+2018-04-11 22:27:40 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 9
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:27:40 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 9
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:28:00 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 1
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:28:00 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 1
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:28:36 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 1
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:28:36 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 1
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:28:47 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 1500
+                    [sort_order] => 0
+                )
+
+            [2] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 1
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:28:47 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 1500
+                    [sort_order] => 0
+                )
+
+            [2] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 1
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:29:04 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 1500
+                    [sort_order] => 0
+                )
+
+            [2] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 1
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:29:04 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 1500
+                    [sort_order] => 0
+                )
+
+            [2] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 1
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:29:06 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 1500
+                    [sort_order] => 0
+                )
+
+            [2] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 1
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:29:06 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 1500
+                    [sort_order] => 0
+                )
+
+            [2] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 1
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:29:28 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 1500
+                    [sort_order] => 10
+                )
+
+            [2] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 1
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:29:29 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 1500
+                    [sort_order] => 10
+                )
+
+            [2] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 1
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:29:38 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 1500
+                    [sort_order] => 10
+                )
+
+            [2] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 1
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:29:38 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 1500
+                    [sort_order] => 10
+                )
+
+            [2] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 1
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:30:09 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 1500
+                    [sort_order] => 10
+                )
+
+            [2] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 2
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:30:09 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 1500
+                    [sort_order] => 10
+                )
+
+            [2] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 2
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:30:24 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 1500
+                    [sort_order] => 10
+                )
+
+            [2] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 8
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:30:24 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 1500
+                    [sort_order] => 10
+                )
+
+            [2] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 8
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:30:26 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 1500
+                    [sort_order] => 10
+                )
+
+            [2] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 8
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:30:26 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => total
+                    [title] => Итого
+                    [value] => 1500
+                    [sort_order] => 10
+                )
+
+            [2] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 8
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:30:40 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 8
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:30:40 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 8
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:30:50 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 8
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:30:55 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 8
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:30:57 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 8
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:31:18 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => shipping
+                    [title] => Доставка до двери получателя с поэтажной оплатой за подъём
+                    [value] => 20
+                    [sort_order] => 7
+                )
+
+            [2] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -76
+                    [sort_order] => 8
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1444
+)
+
+2018-04-11 22:31:25 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => shipping
+                    [title] => Доставка до двери получателя с поэтажной оплатой за подъём
+                    [value] => 20
+                    [sort_order] => 7
+                )
+
+            [2] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -76
+                    [sort_order] => 8
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1444
+)
+
+2018-04-11 22:31:27 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => shipping
+                    [title] => Доставка до двери получателя с поэтажной оплатой за подъём
+                    [value] => 20
+                    [sort_order] => 7
+                )
+
+            [2] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -76
+                    [sort_order] => 8
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1444
+)
+
+2018-04-11 22:31:56 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 6
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:32:00 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 6
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:32:03 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1500
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -75
+                    [sort_order] => 6
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 1425
+)
+
+2018-04-11 22:32:21 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 0
+                    [sort_order] => 
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 0
+)
+
+2018-04-11 22:32:41 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 0
+                    [sort_order] => 
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 0
+)
+
+2018-04-11 22:32:43 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 500
+                    [sort_order] => 
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 500
+)
+
+2018-04-11 22:32:43 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 500
+                    [sort_order] => 
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 500
+)
+
+2018-04-11 22:32:45 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1000
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -50
+                    [sort_order] => 6
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 950
+)
+
+2018-04-11 22:32:45 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1000
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -50
+                    [sort_order] => 6
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 950
+)
+
+2018-04-11 22:32:49 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1000
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -50
+                    [sort_order] => 6
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 950
+)
+
+2018-04-11 22:32:49 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1000
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -50
+                    [sort_order] => 6
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 950
+)
+
+2018-04-11 22:32:53 - Array
+(
+    [totals] => Array
+        (
+            [0] => Array
+                (
+                    [code] => sub_total
+                    [title] => Сумма
+                    [value] => 1000
+                    [sort_order] => 
+                )
+
+            [1] => Array
+                (
+                    [code] => discount
+                    [title] => Cкидка 5&#37;
+                    [value] => -50
+                    [sort_order] => 6
+                )
+
+        )
+
+    [taxes] => Array
+        (
+        )
+
+    [total] => 950
+)
+
